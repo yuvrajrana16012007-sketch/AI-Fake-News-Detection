@@ -1,0 +1,6 @@
+{
+  "name": "AI Fake News Detector",
+  "description": "A professional-grade hybrid AI/ML college project web application for detecting fake news. Built with React, Express, traditional Scikit-learn style TF-IDF + Logistic Regression, and advanced Gemini 3.5 Flash semantic analysis.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
